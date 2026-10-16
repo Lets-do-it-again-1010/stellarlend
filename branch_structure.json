@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/position-lifecycle-endpoints"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/position-lifecycle-endpoints": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/position-lifecycle-endpoints"
+  ]
+}
